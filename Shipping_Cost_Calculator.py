@@ -1,4 +1,3 @@
-#Here is another update by techsagesmoorthi
  # Here is a new update by ur.moorthi@techsages.in
 # Shipping Cost Calculator
 
